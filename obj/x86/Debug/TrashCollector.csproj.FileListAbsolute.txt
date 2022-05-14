@@ -1,0 +1,6 @@
+/home/lion/Desktop/Programming/CSharp/TrashCollector/bin/Debug/TrashCollector.exe
+/home/lion/Desktop/Programming/CSharp/TrashCollector/bin/Debug/TrashCollector.pdb
+/home/lion/Desktop/Programming/CSharp/TrashCollector/obj/x86/Debug/TrashCollector.csprojAssemblyReference.cache
+/home/lion/Desktop/Programming/CSharp/TrashCollector/obj/x86/Debug/TrashCollector.csproj.CoreCompileInputs.cache
+/home/lion/Desktop/Programming/CSharp/TrashCollector/obj/x86/Debug/TrashCollector.exe
+/home/lion/Desktop/Programming/CSharp/TrashCollector/obj/x86/Debug/TrashCollector.pdb
