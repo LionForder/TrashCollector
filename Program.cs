@@ -19,6 +19,10 @@ namespace TrashCollector
             Console.WriteLine(third.deleted);
             second = third;
             second.deleted = true; // ссылается на third => и его изменяет
+
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
+
             Console.WriteLine(second.deleted);
             Console.WriteLine(third.deleted);
 
